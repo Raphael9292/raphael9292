@@ -1,16 +1,12 @@
-### Hi there 👋
+### Devops Engineer
+- Devops Engineer in the travle industry.
 
-<!--
-**Raphael9292/raphael9292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interest
+- AWS
+- Kubernetes
+- CI/CD
+- Monitoring
+- Logging
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![AWS Badge](https://img.shields.io/badge/-AWS-%23FF0000?logo=Amazon-AWS&logoColor=white)](https://docs.aws.amazon.com/)
+[![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-%23A9225C?logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
