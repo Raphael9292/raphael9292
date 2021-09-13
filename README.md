@@ -1,5 +1,5 @@
 ### Devops Engineer
-- Devops Engineer in the travel industry.
+- Devops Engineer in the E-commerce industry.
 
 ### Interest
 - AWS
